@@ -2,7 +2,7 @@ q1，两年Flutter经验，广州某企业内部Flutter培训讲师，广科院1
 
 - 1.对Flutter sdk/Flutter engine项目master分支有深入研究；
 - 2.熟悉混合开发并懂原生Android(Java)、IOS(OC)语言；
-- 3.解析过Provider、Bloc状态管理，熟悉状态管理基本实现、底层逻辑、基本分类及原理，有自写状态管理框架经验；
+- 3.解析过Provider、Bloc状态管理，熟悉状态管理基本实现、底层逻辑、分类及原理，有自写状态管理框架经验；
 - 4.能封装网络请求框架并纯手搭建MVVM/MVC设计模式项目；
 - 5.熟悉无需上下文路由跳转和Navigator基本原理，有路由管理框架封装经验；
 - 6.有使用画笔自绘组件、动画和富文本编辑器开发经验，熟悉GestureDector底层实现；

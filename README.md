@@ -1,4 +1,4 @@
-### 简历
+q1，近两年Flutter经验，企业内部Flutter培训讲师， Flutter开发组长， 作品曾受谷歌官方赞扬并签署【谷歌开发者案例研究授权书】， Flutter教程网 创办者，微信公众号"Flutter前线"小编， FlutterCandies开源组织成员，具有： wechat_flutter， ncov_2019， nav_router等开源项目作品， 视频课程：Flutter实用例子进阶课程 ， 高仿谷歌翻译项目课程， 目前就职于珠海某公司， 持续对Flutter社区输出文章资源，主要关注移动端行业发展和技术更新迭代，不断进步。
 
 <!--
 **ahyangnb/ahyangnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,10 +6,10 @@ q1，两年Flutter经验，广州某企业内部Flutter培训讲师，广科院1
 - 4.能封装网络请求框架并纯手搭建MVVM/MVC设计模式项目；
 - 5.熟悉无需上下文路由跳转和Navigator基本原理，有路由管理框架封装经验；
 - 6.有使用画笔自绘组件、动画和富文本编辑器开发经验，熟悉GestureDector底层实现；
-- 7.对Dart的内存分配、垃圾回收、Isolate、事件循环、阻塞式调用、非阻塞式调用、四大线程有深刻了解；
+- 7.对Dart的内存分配、垃圾回收、事件循环、阻塞式调用、非阻塞式调用、Flutter四大线程有深刻了解；
 - 8.熟悉PlatformView嵌套原生View和RenderObject页面重绘的大致原理；
 - 9.精通flutter run和setState更新UI以及runApp(MyApp)过程；
-- 10.对Isolate组成、Dart虚拟机管理、JIT运行模式、isolate通信、虚拟机运行Dart代码流程和原理有非常深刻的理解；
+- 10.对Isolate组成/通信、Dart虚拟机管理、JIT运行模式、虚拟机运行Dart代码流程和原理有非常深刻的理解；
 
 <!--
 **ahyangnb/ahyangnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

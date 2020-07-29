@@ -1,4 +1,4 @@
-q1，两年Flutter经验，广州某企业内部Flutter培训讲师，广科院18届某班Flutter老师，Flutter开发组长，作品曾受谷歌官方赞扬并签署【谷歌开发者案例研究授权书】，Flutter教程网创办者，微信公众号"Flutter前线"小编，掘金“2019与我技术之路 - 最受喜爱奖”，FlutterCandies开源组织成员，具有：wechat_flutter，ncov_2019，nav_router等开源项目作品，视频课程：Flutter实用例子进阶课程 ， 高仿谷歌翻译项目课程，持续对Flutter社区输出文章资源，主要关注移动端行业发展和技术更新迭代，不断进步。
+q1，两年Flutter经验，广州某企业内部Flutter培训讲师，广科院18届某班Flutter老师，Flutter开发组长，作品曾受谷歌官方赞扬并签署【谷歌开发者案例研究授权书】，Flutter教程网创办者，微信公众号"Flutter前线"小编，掘金“2019与我技术之路 - 最受喜爱奖”，FlutterCandies开源组织成员，视频课程：Flutter实用例子进阶课程 ， 高仿谷歌翻译项目课程，持续对Flutter社区输出文章资源，主要关注移动端行业发展和技术更新迭代，不断进步。
 
 - 1.对Flutter sdk/Flutter engine项目master分支有深刻的研究；
 - 2.熟悉混合开发并懂原生Android(Java)、IOS(OC)语言；

@@ -10,6 +10,7 @@ q1，两年Flutter经验，2019年广州某企业内部Flutter培训讲师，广
 - 8.熟悉PlatformView嵌套原生View和RenderObject页面重绘的大致原理；
 - 9.精通flutter run和setState更新UI以及runApp(MyApp)过程；
 - 10.对Isolate组成/通信、Dart虚拟机管理、JIT运行模式、虚拟机运行Dart代码流程和原理有非常深刻的理解；
+- 11.了解Key及使用Key进行局部刷新优化内存的原理；
 
 <!--
 **ahyangnb/ahyangnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

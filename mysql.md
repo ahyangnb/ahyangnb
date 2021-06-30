@@ -12,3 +12,8 @@ sudo /usr/local/mysql/support-files/mysql.server stop
 
 重启MySQL服务
 sudo /usr/local/mysql/support-files/mysql.server restart
+
+# 密码
+
+常用mysql.
+

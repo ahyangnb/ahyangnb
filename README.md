@@ -1,5 +1,5 @@
 # Self introduction.
-ahyang, five years of experience with Flutter, The work [ncov_2019](https://github.com/fluttercandies/ncov_2019) was signed by Google for case study authorisation..
+ahyang, six years of experience with Flutter, The work [ncov_2019](https://github.com/fluttercandies/ncov_2019) was signed by Google for case study authorisation..
 
 # 联系方式
 联系微信【q1666655】
@@ -19,3 +19,6 @@ https://edu.csdn.net/course/detail/39189
 # Contributors.
 1. [flutter-sdk](https://github.com/flutter/flutter)
 2. [flutter-packages](https://github.com/flutter/packages)
+
+# Focusing content.
+https://github.com/ahyangnb/focus_pages

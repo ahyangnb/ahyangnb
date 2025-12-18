@@ -21,4 +21,6 @@ https://edu.csdn.net/course/detail/39189
 2. [flutter-packages](https://github.com/flutter/packages)
 
 # Focusing content.
-https://github.com/ahyangnb/focus_pages
+
+1. [focus_pages](https://github.com/ahyangnb/focus_pages)
+

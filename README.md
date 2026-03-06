@@ -3,6 +3,7 @@ ahyang, six years of experience with Flutter, The work [ncov_2019](https://githu
 
 # 联系方式
 联系微信【q1666655】
+联系TG【datala68】
 
 wechat_flutter微信开发实战课程：
 https://edu.csdn.net/course/detail/39189

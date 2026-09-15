@@ -5,9 +5,6 @@ ahyang, six years of experience with Flutter, The work [ncov_2019](https://githu
 联系TG【@ahyangnb_1】
 Contact my telegram 【@ahyangnb_1】
 
-wechat_flutter微信开发实战课程：
-https://edu.csdn.net/course/detail/39189
-
 # Major works.
 1. [wechat_flutter](https://github.com/fluttercandies/wechat_flutter)
 2. [ncov_2019](https://github.com/fluttercandies/ncov_2019)
